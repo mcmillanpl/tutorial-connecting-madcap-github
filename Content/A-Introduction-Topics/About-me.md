@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <h1><MadCap:variable name="General.Name" />: Senior Technical Writer</h1>
+        <h1>Pamela McMillan: Senior Technical Writer</h1>
         <p style="text-align: center;">
             <img src="../Resources/Images/v 3.jpg" />
         </p>
