@@ -1,77 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/E-Frontmatter-Topics/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    BreakType="pageLayout"
-    PageType="title"
-    StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl"
-    PageNumberReset="continue"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue"
-    ComputeToc="false"
-    ReplaceMergeNode="false" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/A-Introduction-Topics/Getting-Started.htm"
-    StartChapter="true"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    PageNumber="1"
-    PageNumberReset="continue"
-    PageNumberFormat="decimal"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    ChapterNumberFormat="decimal"
-    VolumeNumberReset="same"
-    SectionNumberReset="continue"
-    StartPageLayout="false"
-    StartSection="false"
-    AutoEndOnLeftPage="enabled"></TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/A-Introduction-Topics/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/B-Feature-Topics/Features.htm"
-    StartChapter="true"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    PageNumber="1"
-    PageNumberReset="continue"
-    StartSection="false"
-    StartPageLayout="false"
-    AutoEndOnLeftPage="enabled"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue">
+    Link="/Content/Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/A-Introduction-Topics/benefits-using-git-source-control.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/A-Introduction-Topics/Prerequisites.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/A-Introduction-Topics/About-me.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/C-Procedure-Topics/Procedures.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    BreakType="chapter"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    Link="/Content/B-Tutorials-Topics/Getting Started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C-Procedure-Topics/Procedure1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/B-Tutorials-Topics/Generate-key-pairs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C-Procedure-Topics/Procedure2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/B-Tutorials-Topics/Accessing-keys.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C-Procedure-Topics/Procedure3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/B-Tutorials-Topics/Connect-madcapto-git.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B-Tutorials-Topics/push-changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
 </CatapultToc>
