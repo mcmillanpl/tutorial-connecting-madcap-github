@@ -5,10 +5,10 @@
     <body>
         <h1>Access private and public SSH key pairs</h1>
         <p>To connect your GitHub repository to MadCap Flare, you will need to access and copy the private/public key pair located on your local drive. </p>
-        <p>If you do not have a private/public key pair, you can generate one following the steps in the <a href="Generate-key-pairs.htm">Generate a private and public key pair tutorial</a>. </p>
+        <p>If you do not have a private/public key pair, you can generate one following the steps in the <a href="https://github.com/mcmillanpl/tutorial-connecting-madcap-github/blob/master/Content/2-Tutorials-Topics/2-generate-key-pairs.md">Generate a private and public key pair tutorial</a>. </p>
         <h2>&#160;</h2>
         <h2>Copying keys </h2>
-        <p>If you followed the steps in the <a href="Generate-key-pairs.htm">Generate a private and public key pair tutorial</a>, your keys will be located in the <code>.ssh</code> folder under <code>C:\Users\[username]\</code>.</p>
+        <p>If you followed the steps in the <a href="https://github.com/mcmillanpl/tutorial-connecting-madcap-github/blob/master/Content/2-Tutorials-Topics/2-generate-key-pairs.md">Generate a private and public key pair tutorial</a>, your keys will be located in the <code>.ssh</code> folder under <code>C:\Users\[username]\</code>.</p>
         <p> The keys will be listed as files with names similar to: <code>id_dsa</code> or <code>id_ed25519</code> (this will be your private key), as well as a matching file with a <code>.pub</code> extension (this is the public key). </p>
         <h2>&#160;</h2>
         <h2>Accessing with Notepad</h2>
