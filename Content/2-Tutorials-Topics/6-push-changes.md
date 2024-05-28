@@ -7,7 +7,7 @@
         <ol>
             <li>
                 <p>Once you have MadCap Flare connected to your GitHub repository, you are now ready to push your MadCap project to GitHub.</p>
-                <p><b>NOTE</b>:&#160;you should <a href="commit-to-github.htm">commit all files</a> before pushing. </p>
+                <p><b>NOTE</b>:&#160;you should <a href="https://github.com/mcmillanpl/tutorial-connecting-madcap-github/blob/master/Content/2-Tutorials-Topics/5-commit-to-github.md">commit all files</a> before pushing. </p>
             </li>
             <li>
                 <p>Depending on the MadCap interface you are using, start the process by doing one of the following:</p>
